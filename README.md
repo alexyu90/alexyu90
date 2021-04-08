@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Yu
 - 👀 I’m interested in ML and web dev
-- 🌱 I’m coding mostly in Python. I hope to learn some JavaSript for front-end dev in the future.
+- 🌱 I’m coding mostly in Python. I hope to use more JavaSript for front-end dev in the future.
 - 📫 How to reach me: admin@alexyu.ch
 
 <!---

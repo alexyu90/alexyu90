@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alex Yu
-- 👀 I’m interested in ML and web dev
-- 🌱 I’m coding mostly in Python. I hope to use more JavaSript for front-end dev in the future.
-- 📫 How to reach me: admin@alexyu.ch
+- 👀 I’m interested in machine learning and web development
+- 🌱 I’m coding mostly in Python. I hope to use more JavaScript for front-end dev in the future.
 
 <!---
 alexyu90/alexyu90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Yu
 - 👀 I’m interested in machine learning and web development
-- 🌱 I’m coding mostly in Python. I hope to use more JavaScript for front-end dev in the future.
+- 🌱 I code mostly in Python and sometimes make web apps for fun. 
 
 <!---
 alexyu90/alexyu90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
